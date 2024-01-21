@@ -3,6 +3,23 @@
   "texts": {
     "Menu:Home": "Ana sayfa",
     "Welcome": "Hoşgeldiniz",
-    "LongWelcomeMessage": "Uygulamaya hoşgeldiniz. Bu, ABP framework'ü üzerine bina edilmiş bir başlangıç projesidir. Daha fazla bilgi için abp.io adresini ziyaret edebilirsiniz."
+    "LongWelcomeMessage": "Uygulamaya hoşgeldiniz. Bu, ABP framework'ü üzerine bina edilmiş bir başlangıç projesidir. Daha fazla bilgi için abp.io adresini ziyaret edebilirsiniz.",
+    "Menu:ProductManagement": "Ürün Yönetimi",
+    "Menu:Products": "Ürünler",
+    "Name": "Adı",
+    "CategoryName": "Kategori Adı",
+    "Price": "Fiyatı",
+    "StockState": "Stok Durumu",
+    "Enum:StockState:0": "Ön Satış",
+    "Enum:StockState:1": "Stokta var",
+    "Enum:StockState:2": "Mevcut Değil",
+    "Enum:StockState:3": "Satışı Durduruldu",
+    "CreationTime": "Oluşturma Zamanı",
+    "NewProduct": "Yeni Ürün",
+    "Category": "Kategori",
+    "IsFreeCargo": "Ücretsiz Kargo",
+    "ReleaseDate": "Yayınlanma Zamanı",
+    "ProductDeletionConfirmationMessage": "Bu ürünü silmek istediğinize emin misiniz?: {0}",
+    "SuccessfullyDeleted": "Başarılı Bir Şekilde Silindi!"
   }
 }
